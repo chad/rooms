@@ -6,7 +6,7 @@
 * @mention your friends and they will get a notification
 * To become a moderator, just @mention one of the current moderators
 
-Current moderators: @myobie
+Current moderators: @myobie, @chad
 
 **The #general room is below.**
 
