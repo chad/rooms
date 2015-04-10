@@ -12,6 +12,7 @@ Current moderators: @myobie
 
 | name | message |
 | :--- | :------ |
+| chad | @myobie can i be a moderator? |
 | chad | This is a really inconvenient way to chat. That's what I like about it the most. |
 | chad | hallo @myobie.  @i0rek wie gehts? |
 | myobie | Guten morgen |
