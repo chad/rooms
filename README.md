@@ -12,5 +12,6 @@ Current moderators: @myobie
 
 | name | message |
 | :--- | :------ |
+| chad | hallo @myobie.  @i0rek wie gehts? |
 | myobie | Guten morgen |
 | system | Welcome |
