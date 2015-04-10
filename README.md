@@ -10,5 +10,7 @@ Current moderators: @myobie
 
 **The #general room is below.**
 
+| name | message |
+------------------
 | myobie | Guten morgen |
 | system | Welcome |
